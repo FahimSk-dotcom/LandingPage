@@ -1,12 +1,33 @@
-# React + Vite
+# Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page built using Next.js and deployed on Vercel.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here to view the live site](https://landing-page-ochre-sigma-96.vercel.app/)
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔥 **Fast & Responsive** – Optimized for all devices.
+- 🎨 **Clean UI** – Modern and minimalistic design.
+- ⚡ **Deployed on Vercel** – Ensures high performance.
+- 📜 **SEO Friendly** – Basic meta tags included.
+
+## 🛠 Tech Stack
+
+- **Frontend:**  React
+- **Styling:**  CSS 
+- **Hosting:** Vercel
+
+## 📂 Installation & Setup
+
+To run this project locally:
+
+```bash
+git clone [https://github.com/FahimSk-dotcom/LandingPage.git]
+cd LandingPage
+npm install
+npm run dev
+```
+
+Then visit `http://localhost:3000/` in your browser.

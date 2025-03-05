@@ -17,7 +17,7 @@ const Navbar = () => {
         </div>
         
         {/* Desktop Navigation */}
-        <div className="nav-right hidden md:flex">
+        <div className="nav-right ">
           <ul>
             <li>Home</li>
             <li>Men</li>
@@ -28,14 +28,14 @@ const Navbar = () => {
         </div>
         
         {/* Mobile Menu Toggle */}
-        <div className="mobile-menu-icon md:hidden" onClick={toggleMenu}>
+        <div className="mobile-menu-icon" onClick={toggleMenu}>
           {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
         </div>
       </div>
 
       {/* Mobile Menu Overlay */}
       {isMenuOpen && (
-        <div className="mobile-menu md:hidden">
+        <div className="mobile-menu">
           <ul>
             <li>Home</li>
             <li>Men</li>

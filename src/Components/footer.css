@@ -1,0 +1,53 @@
+.footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    font-family: Arial, sans-serif;
+    border-top: 2px solid #0f0;
+  }
+  
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .cart-icon {
+    margin-right: 8px;
+    color: #0f0;
+  }
+  
+  .footer-text {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .react {
+    color: #61dafb;
+    font-weight: bold;
+  }
+  
+  .tailwind {
+    color: #38bdf8;
+    font-weight: bold;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+  }
+  
+  .icon {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 8px;
+    color: #888;
+    transition: color 0.3s;
+  }
+  
+  .icon:hover {
+    color: #fff;
+  }
+  

@@ -38,6 +38,10 @@ Then visit `http://localhost:3000/` in your browser.
 
 ![Features Page Screenshot](public/screenshot2.png)
 
+![Contact Page Screenshot](public/screenshot3.1.png)
+
+![Footer Screenshot](public/screenshot3.2.png)
+
 ![Mobile View Screenshot](public/screenshot3.png)
 
 ![Features Page MobileView Screenshot](public/screenshot4.png)

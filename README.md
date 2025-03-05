@@ -31,3 +31,7 @@ npm run dev
 ```
 
 Then visit `http://localhost:3000/` in your browser.
+
+## 📸 Screenshot
+
+![Landing Page Screenshot](public/screenshot.png)

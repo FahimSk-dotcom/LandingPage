@@ -44,4 +44,4 @@ Then visit `http://localhost:3000/` in your browser.
 
 ## 📸 Demo Video
 
-![Demo Video](tutorialvideo.mp4)
+![Demo Video](public/tutorialvideo.mp4)

@@ -42,3 +42,6 @@ Then visit `http://localhost:3000/` in your browser.
 
 ![Features Page MobileView Screenshot](public/screenshot4.png)
 
+## 📸 Demo Video
+
+![Demo Video](video.mp4)
